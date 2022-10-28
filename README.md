@@ -12,7 +12,7 @@
 
 - Run the following command to verify that the CLI installed successfully.
   
-  `aws –version`
+  `aws --version`
 - If the installation was successful, the following message is returned
   
   `aws-cli/2.1.29 Python/3.7.4 Windows/10 botocore/2.0.0`
